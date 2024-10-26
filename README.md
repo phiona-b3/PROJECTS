@@ -28,7 +28,7 @@ To view this CV webpage locally, follow these steps:
 ## Project Page
 
 You can view the live version of my CV at: [Phiona's CV](https://phiona-b3.github.io/PROJECTS/)
-https://roadmap.sh/projects/single-page-cv
+```https://roadmap.sh/projects/single-page-cv```
 
 ## Technologies Used
 
